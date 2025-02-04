@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/upliance_Assignement/static/css/main.4b4c7a3c.css",
+    "main.js": "/upliance_Assignement/static/js/main.f9030daf.js",
+    "index.html": "/upliance_Assignement/index.html",
+    "main.4b4c7a3c.css.map": "/upliance_Assignement/static/css/main.4b4c7a3c.css.map",
+    "main.f9030daf.js.map": "/upliance_Assignement/static/js/main.f9030daf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b4c7a3c.css",
+    "static/js/main.f9030daf.js"
+  ]
+}
